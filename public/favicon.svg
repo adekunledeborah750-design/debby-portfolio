@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="debby-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="37%" stop-color="#B600A8"/>
+      <stop offset="72%" stop-color="#7621B0"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0C0C0C"/>
+  <circle cx="32" cy="32" r="22" fill="url(#debby-grad)"/>
+  <text x="32" y="41" font-family="'Kanit', sans-serif" font-size="26" font-weight="900" fill="#D7E2EA" text-anchor="middle">D</text>
+</svg>
